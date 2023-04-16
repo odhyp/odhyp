@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @valgtreiz
-- 🍰 currently busy
+hi i'm valgtreiz
