@@ -1,10 +1,10 @@
-<h1 align="center">Hello, everyone!</h1>
+<h1 align="center">Hello!</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i> I'm Odhy.<br>
         Currently learning HTML and CSS.<br>
-        Please enjoy your visit.<br>
+        Have a good day.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/odhy-pradhana/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
