@@ -1,0 +1,7 @@
+{
+"cmd":["start", "cmd", "/c" ,"python $file && color b0 && pause"],
+"selector": "source.python",
+"working_dir": "${file_path}",
+"file_regex": "(.+):(\\d+): error: ",
+"shell": true 
+}
