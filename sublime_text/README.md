@@ -44,5 +44,6 @@ A File Icon,All Autocomplete,AutoFileName,AutoPEP8,BracketHighlighter,Emmet,Git,
     "translate_tabs_to_spaces": true,
     "remember_full_screen": true,
     "ignored_packages": ["Vintage"],
+    "preview_on_click": false,
 }
 ```
