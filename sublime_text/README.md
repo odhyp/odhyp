@@ -42,7 +42,6 @@ A File Icon,All Autocomplete,AutoFileName,AutoPEP8,BracketHighlighter,Emmet,Git,
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
     
     // Material Theme
-    "material_theme_accent_scrollbars": true,
     "material_theme_arrow_folders": true,
     "material_theme_accent_yellow": true,
     
