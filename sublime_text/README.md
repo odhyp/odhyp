@@ -7,6 +7,7 @@ My personal setting and customizations for Sublime Text
 This is my list of useful Sublime Text packages that I currently use to optimize my coding experience:
 
 - [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon) - File-Specific Icons for Improved Visual Grepping
+- [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile) - File creation plugin for Sublime Text
 - [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete) - Extend autocompletion to find matches in all open files of the current window
 - [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - Autocompletes filenames
 - [AutoPEP8](https://packagecontrol.io/packages/AutoPEP8) - Automatically formats Python code to conform to the PEP 8 style guide
@@ -28,7 +29,7 @@ This is my list of useful Sublime Text packages that I currently use to optimize
 4. Copy and paste the following comma-separated list:
 
 ```
-A File Icon,All Autocomplete,AutoFileName,AutoPEP8,BracketHighlighter,Emmet,Git,GitGutter,Material Theme,MarkdownEditing,MarkdownPreview,SideBarEnhancements,Terminus
+A File Icon,AdvancedNewFile,All Autocomplete,AutoFileName,AutoPEP8,BracketHighlighter,Emmet,Git,GitGutter,Material Theme,MarkdownEditing,MarkdownPreview,SideBarEnhancements,Terminus
 ```
 
 5. Restart Sublime Text after all packages has finished installing
