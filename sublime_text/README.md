@@ -20,6 +20,7 @@ This is my list of useful Sublime Text packages that I currently use to optimize
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) - Provides enhancements to the operations on Sidebar of Files and Folders
 - [Terminus](https://packagecontrol.io/packages/Terminus) - Bring a real terminal to Sublime Text
 - [Theme - Monokai Pro](https://packagecontrol.io/packages/Theme%20-%20Monokai%20Pro) - Professional theme and matching icons, from the author of the original Monokai color scheme.
+- [TOML](https://packagecontrol.io/packages/TOML) - Sublime Text 2/3 syntax highlighting for .toml/.tml format
 
 ## Installation
 
@@ -29,7 +30,7 @@ This is my list of useful Sublime Text packages that I currently use to optimize
 4. Copy and paste the following comma-separated list:
 
 ```
-A File Icon,AdvancedNewFile,All Autocomplete,AutoFileName,AutoPEP8,BracketHighlighter,Emmet,Git,GitGutter,MarkdownEditing,MarkdownPreview,SideBarEnhancements,Terminus,Theme - Monokai Pro
+A File Icon,AdvancedNewFile,All Autocomplete,AutoFileName,AutoPEP8,BracketHighlighter,Emmet,Git,GitGutter,MarkdownEditing,MarkdownPreview,SideBarEnhancements,Terminus,Theme - Monokai Pro,TOML
 ```
 
 5. Restart Sublime Text after all packages has finished installing
