@@ -3,7 +3,7 @@
 - :snake: I mostly code in Python and enjoy making automations for my 9-5 tasks.
 - :briefcase: Currently focused on developing [ASIK](https://github.com/odhyp/asik).
 - :star: I dig open source—always up for contributing!
-- :mailbox: Feel free to reach out via [email](mailto:pradhana.odhy@gmail.com).
+- :mailbox: Feel free to reach out via [email](mailto:pradhana.odhy@gmail.com) and visit my [website](https://odhyp.vercel.app)!
 
 <!-- - :bulb: Lately I've been learning [Bootstrap](https://getbootstrap.com/) CSS framework -->
 <!-- - :musical_keyboard: I'm also interested in  -->
