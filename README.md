@@ -3,4 +3,4 @@
 - :snake: I mostly code in Python.
 - :briefcase: Currently focused on developing [ASIK](https://github.com/odhyp/asik).
 - :star: I dig open source—always up for contributing!
-- :mailbox: Visit my [website](https://odhyp.vercel.app)!
+- :mailbox: Visit my [website](https://odhyp.com)!
