@@ -2,7 +2,5 @@
 
 - 🐍 I mostly code in Python
 - 🎨 I do front-end development using Hugo, TailwindCSS, and JavaScript.
-- 💼 Currently working as an accountant at [BPKA DIY](https://bpka.jogjaprov.go.id/)
-- 💴 Graduated in Accounting from [PKN STAN](https://pknstan.ac.id/)
 - 🌟 I dig open source—always up for contributing
 - 📫 Visit my [website](https://odhyp.com)!
