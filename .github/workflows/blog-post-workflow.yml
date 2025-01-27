@@ -8,16 +8,16 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README.md recent blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in recent blog posts from odhyp.com RSS feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://odhyp.com/index.xml"
-          template: "$newline - [$title]($url) ($date)"
+          template: "$newline- [$title]($url) ($date)"
           date_format: "mmm d, yyyy"
           commit_message: "chore: update recent posts"
           committer_username: "github-actions[bot]"
