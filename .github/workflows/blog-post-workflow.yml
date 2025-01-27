@@ -20,5 +20,5 @@ jobs:
           template: "$newline - [$title]($url) ($date)"
           date_format: "mmm d, yyyy"
           commit_message: "chore: update recent posts"
-          commiter_username: "github-actions[bot]"
-          commiter_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
