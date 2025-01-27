@@ -44,7 +44,7 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML
           # Commit
           COMMIT_MESSAGE: "chore: update WakaTime stats"
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHub Actions[Bot]
           COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
