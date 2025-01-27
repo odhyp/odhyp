@@ -1,11 +1,8 @@
-#### 💼 &nbsp;I do web automation. Fancy a work?
+#### 💼 &nbsp;I do web automation
 
-[![Email][email-shield]][email-url]
-[![Website][website-shield]][website-url]
+Fancy a work? Send an [email][email-url] — or better yet, visit [my site][website-url]!
 
-<br>
-
-#### 📰 &nbsp;Recent posts:
+#### 📰 &nbsp;Recent posts
 
 <!-- BLOG-POST-LIST:START -->
  - [Malioboro Street](https://odhyp.com/photo/malioboro/) (Jan 16, 2025)
@@ -15,9 +12,7 @@
  - [Advanced Web Automation Comparing Selenium and Playwright for Efficient Web Testing](https://odhyp.com/blog/advanced-web-automation-comparing-selenium-and-playwright-for-efficient-web-testing/) (May 6, 2024)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
-#### 📆 &nbsp;This month in code:
+#### 📆 &nbsp;This month in code
 
 <!--START_SECTION:waka-->
 
@@ -29,19 +24,18 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<br>
+#### 😎 &nbsp;Cool counters
 
-#### 😎 &nbsp;Cool stuffs:
+> Because who doesn’t love stats?
 
-<!-- Profile Views Counter -->
 ![Profile Views][view-shield]
 ![Total Stars][stars-shield]
 [![Comments][comments-shield]][comments-url]
 
 <!-- LINKS & IMAGES -->
-[email-shield]: https://img.shields.io/badge/send_email-black?style=for-the-badge&logo=gmail&logoColor=black&labelColor=34d399
+[email-shield]: https://img.shields.io/badge/send_email-black?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white
 [email-url]: mailto:pradhana.odhy@gmail.com
-[website-shield]: https://img.shields.io/badge/my_website-black?style=for-the-badge&logo=hugo&logoColor=black&labelColor=34d399
+[website-shield]: https://img.shields.io/badge/my_website-black?style=for-the-badge&logo=hugo&logoColor=black&labelColor=white
 [website-url]: https://odhyp.com
 [view-shield]: https://komarev.com/ghpvc/?username=odhyp&color=34d399&style=for-the-badge&abbreviated=true
 [stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=34d399
