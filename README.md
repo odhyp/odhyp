@@ -12,6 +12,13 @@ I'm doing web automation.
 #### 📆 &nbsp;This Month in Code:
 
 <!--START_SECTION:waka-->
+
+```python
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!-- Profile Views Counter -->
