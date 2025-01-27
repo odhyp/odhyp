@@ -13,7 +13,7 @@ I'm doing web automation.
 
 <!--START_SECTION:waka-->
 
-```python
+```python javascript html markdown
 Total Time: 0 secs
 
 No activity tracked
