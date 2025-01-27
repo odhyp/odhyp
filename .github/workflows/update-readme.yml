@@ -36,7 +36,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Content
-          CODE_LANG: python javascript html markdown
+          CODE_LANG: bash
           TIME_RANGE: last_30_days
           SHOW_TIME: true
           SHOW_TOTAL: true
