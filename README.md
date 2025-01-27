@@ -1,3 +1,9 @@
-I'm doing web automation
+I'm doing web automation.
 
-![Profile Views](https://komarev.com/ghpvc/?username=odhyp&color=green&style=for-the-badge&abbreviated=true)
+#### Recent Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=odhyp&color=green&style=pixel&abbreviated=true)
