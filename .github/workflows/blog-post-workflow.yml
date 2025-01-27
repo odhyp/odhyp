@@ -17,6 +17,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://odhyp.com/index.xml"
-          max_post_count: 10
-          template: "- [$title]($url) ($date)"
+          template: "$newline - [$title]($url) ($date)"
           date_format: "mmm d, yyyy"
+          commit_message: "chore: update recent posts"
+          commiter_username: "github-actions[bot]"
+          commiter_email: "41898282+github-actions[bot]@users.noreply.github.com"
