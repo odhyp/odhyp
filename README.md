@@ -31,5 +31,5 @@ No activity tracked
 <!-- LINKS & IMAGES -->
 [email-shield]: https://img.shields.io/badge/send_email-black?style=for-the-badge&logo=gmail&logoColor=black&labelColor=white
 [email-url]: mailto:pradhana.odhy@gmail.com
-[website-shield]: https://img.shields.io/badge/visit_my_site-black?style=for-the-badge&logo=hugo&logoColor=black&labelColor=white
+[website-shield]: https://img.shields.io/badge/my_website-black?style=for-the-badge&logo=hugo&logoColor=black&labelColor=white
 [website-url]: https://odhyp.com
