@@ -17,9 +17,12 @@ Fancy a work? Send an [email][email-url] — or better yet, visit [my site][webs
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 0 secs
+Total Time: 2 hrs 1 min
 
-No activity tracked
+HTML         41 mins         ████████▒░░░░░░░░░░░░░░░░   33.99 %
+Markdown     25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
+Python       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
