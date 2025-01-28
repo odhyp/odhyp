@@ -12,7 +12,7 @@ Fancy a work? Send an [email][email-url] — or better yet, visit [my site][webs
  - [Advanced Web Automation Comparing Selenium and Playwright for Efficient Web Testing](https://odhyp.com/blog/advanced-web-automation-comparing-selenium-and-playwright-for-efficient-web-testing/) (May 6, 2024)
 <!-- BLOG-POST-LIST:END -->
 
-#### 📆 &nbsp;This month in code
+#### 📆 &nbsp;This week in code
 
 <!--START_SECTION:waka-->
 
