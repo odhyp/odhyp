@@ -5,25 +5,12 @@ Fancy a work? Send an [email][email-url] — or better yet, visit [my site][webs
 #### 📰 &nbsp;Recent posts
 
 <!-- BLOG-POST-LIST:START -->
- - [Malioboro Street](https://odhyp.com/photo/malioboro/) (Jan 16, 2025)
- - [Prambanan](https://odhyp.com/photo/prambanan/) (Jan 16, 2025)
- - [Taman Sari](https://odhyp.com/photo/tamansari/) (Jan 16, 2025)
- - [Yogyakarta](https://odhyp.com/photo/yogyakarta/) (Jan 16, 2025)
- - [Advanced Web Automation Comparing Selenium and Playwright for Efficient Web Testing](https://odhyp.com/blog/advanced-web-automation-comparing-selenium-and-playwright-for-efficient-web-testing/) (May 6, 2024)
+
 <!-- BLOG-POST-LIST:END -->
 
 #### 📆 &nbsp;This week in code
 
 <!--START_SECTION:waka-->
-
-```bash
-Total Time: 2 hrs 1 min
-
-HTML         41 mins         ████████▒░░░░░░░░░░░░░░░░   33.99 %
-Markdown     25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
-Python       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
 
 <!--END_SECTION:waka-->
 
