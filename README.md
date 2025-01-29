@@ -18,7 +18,6 @@ Total Time: 4 hrs 49 mins
 HTML          2 hrs 8 mins    ███████████░░░░░░░░░░░░░░   44.48 %
 Markdown      1 hr 25 mins    ███████▒░░░░░░░░░░░░░░░░░   29.70 %
 Python        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Image (svg)   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
