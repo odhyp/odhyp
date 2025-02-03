@@ -4,6 +4,8 @@ Fancy a work? Send an [email][email-url] — or better yet, visit [my site][webs
 
 #### 📰 &nbsp;Recent posts
 
+> Migration in progress... Coming soon!
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
