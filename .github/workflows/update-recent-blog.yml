@@ -1,0 +1,25 @@
+name: Update Recent Blog Posts
+
+on:
+  workflow_dispatch: # Allow manual trigger
+  schedule:
+    - cron: "0 0 * * 0" # Runs every Sunday at 7:00 AM WIB
+
+jobs:
+  update-recent-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Recent Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://odhyp.com/index.xml"
+          # Content
+          template: "$newline- [$title]($url) ($date)"
+          date_format: "mmm d, yyyy"
+          # Commit
+          commit_message: "chore: update recent posts"
+          committer_username: GitHub Actions[Bot]
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
