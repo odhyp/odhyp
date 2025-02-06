@@ -41,4 +41,4 @@ CSS          1 hr 14 mins    █▒░░░░░░░░░░░░░░░
 [view-shield]: https://komarev.com/ghpvc/?username=odhyp&color=34d399&style=for-the-badge&abbreviated=true
 [stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=34d399
 [comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=34d399
-[comments-url]: https://github.com/odhyp/odhyp/discussions
+[comments-url]: https://odhyp.com/
