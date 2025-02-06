@@ -15,12 +15,12 @@ Fancy a work? Send an [email][email-url] — or better yet, visit [my site][webs
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 25 hrs 35 mins
+Total Time: 22 hrs
 
-Python        12 hrs 37 mins  ████████████▒░░░░░░░░░░░░   49.13 %
-HTML          4 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-Markdown      3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-CSS           49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Python       8 hrs 37 mins   █████████▓░░░░░░░░░░░░░░░   39.02 %
+HTML         6 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   30.36 %
+Markdown     2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+CSS          1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
