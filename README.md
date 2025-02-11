@@ -27,8 +27,8 @@ JavaScript   22 mins         ▒░░░░░░░░░░░░░░░░
 [![Comments][comments-shield]][comments-url]
 
 <!-- LINKS & IMAGES -->
-[website-url]: https://odhyp.com
+[website-url]: https://odhyp.com/blog
 [view-shield]: https://komarev.com/ghpvc/?username=odhyp&color=00bba7&style=for-the-badge&abbreviated=true
 [stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=00bba7
-[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=00bba7
-[comments-url]: https://odhyp.com/about
+[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp.com?style=for-the-badge&label=comments&color=00bba7
+[comments-url]: https://github.com/odhyp/odhyp.com/discussions
