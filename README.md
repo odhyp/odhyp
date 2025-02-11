@@ -3,8 +3,7 @@
 > Migration in progress... Coming soon!
 
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+- [A New Look](https://odhyp.com/blog/a-new-look/) (Feb 11, 2025)<!-- BLOG-POST-LIST:END -->
 
 📆 **This week in code:**
 
