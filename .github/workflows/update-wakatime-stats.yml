@@ -17,6 +17,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Content
+          BLOCKS: -o
           CODE_LANG: bash
           LANG_COUNT: 5
           SHOW_TIME: true
