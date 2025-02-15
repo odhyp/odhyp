@@ -1,9 +1,8 @@
 📖 **Latest Blog Posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Look](https://odhyp.com/blog/a-new-look/) (Feb 11, 2025)
-
-<!-- BLOG-POST-LIST:END -->
+- [Upgrading Hugo to TailwindCSS v4](https://odhyp.com/blog/upgrading-hugo-to-tailwindcss-v4/) (Feb 13, 2025)
+- [A New Look](https://odhyp.com/blog/a-new-look/) (Feb 11, 2025)<!-- BLOG-POST-LIST:END -->
 
 📆 **This week in code:**
 
