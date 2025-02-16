@@ -11,10 +11,10 @@
 ```bash
 Total Time: 27 hrs 40 mins
 
-HTML         9 hrs 27 mins   ooooooooo----------------   34.11 %
-Markdown     8 hrs 10 mins   ooooooo------------------   29.44 %
-Python       5 hrs 22 mins   ooooo--------------------   19.37 %
-CSS          2 hrs 16 mins   oo-----------------------   08.23 %
+HTML         8 hrs 14 mins   ooooooo------------------   29.72 %
+Markdown     8 hrs 9 mins    ooooooo------------------   29.43 %
+Python       7 hrs 11 mins   oooooo-------------------   25.89 %
+CSS          1 hr 46 mins    oo-----------------------   06.39 %
 JavaScript   59 mins         o------------------------   03.55 %
 ```
 
