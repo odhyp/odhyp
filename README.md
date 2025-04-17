@@ -1,8 +1,11 @@
 📖 **Latest Blog Posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading Hugo to TailwindCSS v4](https://odhyp.com/blog/upgrading-hugo-to-tailwindcss-v4/) (Feb 13, 2025)
-- [A New Look](https://odhyp.com/blog/a-new-look/) (Feb 11, 2025)<!-- BLOG-POST-LIST:END -->
+- [Upgrading a Hugo Website from Tailwind CSS v3 to v4](https://odhyp.com/writings/upgrading-a-hugo-website-from-tailwind-css-v3-to-v4/) (Feb 13, 2025)
+- [A New Look](https://odhyp.com/writings/a-new-look/) (Feb 11, 2025)
+- [Flask TailwindCSS Starter](https://odhyp.com/projects/flask-tailwindcss-starter/) (Jan 12, 2025)
+- [SIPD-RI Helper](https://odhyp.com/projects/sipd-ri-helper/) (Oct 27, 2024)
+- [Hugo TailwindCSS Starter](https://odhyp.com/projects/hugo-tailwindcss-starter/) (Sep 22, 2024)<!-- BLOG-POST-LIST:END -->
 
 📆 **This week in code:**
 
