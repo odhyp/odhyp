@@ -7,7 +7,7 @@
 - [SIPD-RI Helper](https://odhyp.com/projects/sipd-ri-helper/) (Oct 27, 2024)
 - [Hugo TailwindCSS Starter](https://odhyp.com/projects/hugo-tailwindcss-starter/) (Sep 22, 2024)<!-- BLOG-POST-LIST:END -->
 
-📆 **This week in code:**
+📆 **This week in code**
 
 <!--START_SECTION:waka-->
 
