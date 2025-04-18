@@ -1,4 +1,4 @@
-📖 **Latest Blog Posts on [odhyp.com][website-url]**
+🌱 **What’s growing lately in my [digital garden][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
 - [Upgrading a Hugo Website from Tailwind CSS v3 to v4](https://odhyp.com/writings/upgrading-a-hugo-website-from-tailwind-css-v3-to-v4/) (Feb 13, 2025)
@@ -28,7 +28,7 @@ XML        2 mins          -------------------------   00.32 %
 [![Comments][comments-shield]][comments-url]
 
 <!-- LINKS & IMAGES -->
-[website-url]: https://odhyp.com/blog
+[website-url]: https://odhyp.com/writings
 [view-shield]: https://komarev.com/ghpvc/?username=odhyp&color=00bba7&style=for-the-badge&abbreviated=true
 [stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=00bba7
 [comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=00bba7
