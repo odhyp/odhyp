@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 16 hrs 23 mins
+Total Time: 10 hrs 39 mins
 
-Python       6 hrs 23 mins   >>>>>>>>>----------------   37.89 %
-HTML         6 hrs 9 mins    >>>>>>>>>----------------   36.46 %
-Markdown     3 hrs 2 mins    >>>>>--------------------   18.03 %
-Other        28 mins         >------------------------   02.84 %
-CSS          21 mins         >------------------------   02.13 %
+HTML         5 hrs 11 mins   >>>>>>>>>>>>-------------   47.38 %
+Python       3 hrs 49 mins   >>>>>>>>>----------------   34.85 %
+Markdown     1 hr 12 mins    >>>----------------------   11.05 %
+Other        17 mins         >------------------------   02.74 %
+CSS          11 mins         -------------------------   01.78 %
 ```
 
 <!--END_SECTION:waka-->
