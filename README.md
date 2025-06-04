@@ -35,7 +35,7 @@ JavaScript   16 mins         -------------------------   01.46 %
 [website-url]: https://odhyp.com/writings
 [view-shield]: https://komarev.com/ghpvc/?username=odhyp&color=00bba7&style=for-the-badge&abbreviated=true
 [stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=00bba7
-[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=00bba7
-[comments-url]: https://github.com/odhyp/odhyp/discussions
+[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp.com?style=for-the-badge&label=comments&color=00bba7
+[comments-url]: https://github.com/odhyp/odhyp.com/discussions
 
 </details>
