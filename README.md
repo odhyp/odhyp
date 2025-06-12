@@ -1,8 +1,10 @@
 🌱 **What’s growing lately in my [digital garden][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+- [Welcome to My Digital Garden](https://odhyp.com/writings/welcome-to-my-digital-garden/)
+- [Obsidian Note Syncing using Git](https://odhyp.com/writings/obsidian-and-git/)
+- [Upgrading a Hugo Website from Tailwind CSS v3 to v4](https://odhyp.com/writings/upgrading-a-hugo-website-from-tailwind-css-v3-to-v4/)
+- [Site Updates](https://odhyp.com/writings/site-updates/)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
