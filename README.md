@@ -1,10 +1,8 @@
 🌱 **What’s growing lately in my [digital garden][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to My Digital Garden](https://odhyp.com/writings/welcome-to-my-digital-garden/) (Jun 7, 2025)
-- [Obsidian Note Syncing using Git](https://odhyp.com/writings/obsidian-and-git/) (May 2, 2025)
-- [Upgrading a Hugo Website from Tailwind CSS v3 to v4](https://odhyp.com/writings/upgrading-a-hugo-website-from-tailwind-css-v3-to-v4/) (Feb 13, 2025)
-- [Site Updates](https://odhyp.com/writings/site-updates/) (Feb 11, 2025)<!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 
