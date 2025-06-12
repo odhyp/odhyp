@@ -17,8 +17,7 @@ jobs:
         with:
           feed_list: "https://odhyp.com/index.xml"
           # Content
-          template: "$newline- [$title]($url) ($date)"
-          date_format: "mmm d, yyyy"
+          template: "$newline- [$title]($url)"
           # Commit
           commit_message: "chore: update recent posts"
           committer_username: GitHub Actions[Bot]
