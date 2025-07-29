@@ -1,4 +1,4 @@
-🌱 **What’s growing lately in my [digital garden][website-url]**
+📑 **Latest posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
 - [Python Module: datetime](https://odhyp.com/writings/python-module-datetime/)
@@ -34,7 +34,7 @@ JavaScript   2 mins          -------------------------   00.16 %
 [![Comments][comments-shield]][comments-url]
 
 <!-- LINKS & IMAGES -->
-[website-url]: https://odhyp.com/writings
+[website-url]: https://odhyp.com/
 [view-shield]: https://komarev.com/ghpvc/?username=odhyp&color=00bba7&style=for-the-badge&abbreviated=true
 [stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=00bba7
 [comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=00bba7
