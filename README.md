@@ -2,8 +2,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Goodbye pip, Hello uv](https://odhyp.com/writings/goodbye-pip-hello-uv/)
-- [Upgrading a Hugo Website from Tailwind CSS v3 to v4](https://odhyp.com/writings/upgrading-a-hugo-website-from-tailwind-css-v3-to-v4/)
-- [Site Updates](https://odhyp.com/writings/site-updates/)<!-- BLOG-POST-LIST:END -->
+- [Upgrading a Hugo Website from Tailwind CSS v3 to v4](https://odhyp.com/writings/upgrading-a-hugo-website-from-tailwind-css-v3-to-v4/)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
