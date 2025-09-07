@@ -19,6 +19,7 @@ jobs:
           # Content
           BLOCKS: ->
           CODE_LANG: bash
+          TIME_RANGE: all_time
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
