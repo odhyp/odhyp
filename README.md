@@ -1,8 +1,7 @@
 📑 **Latest posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye pip, Hello uv](https://odhyp.com/writings/goodbye-pip-hello-uv/)
-- [Upgrading a Hugo Website from Tailwind CSS v3 to v4](https://odhyp.com/writings/upgrading-a-hugo-website-from-tailwind-css-v3-to-v4/)<!-- BLOG-POST-LIST:END -->
+- [Upgrading Your Hugo Site to Tailwind CSS v4](https://odhyp.com/articles/upgrading-your-hugo-site-to-tailwindcss-v4/)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
