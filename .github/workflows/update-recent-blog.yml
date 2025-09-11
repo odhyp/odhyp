@@ -3,7 +3,7 @@ name: Update Recent Blog Posts
 on:
   workflow_dispatch: # Allow manual trigger
   schedule:
-    - cron: "0 0 * * 1,4" # Runs every Mon and Thu at 7:00 AM WIB
+    - cron: "0 1 * * 1,4" # Runs every Mon and Thu at 7:00 AM WIB
 
 jobs:
   update-recent-blog:
@@ -15,7 +15,7 @@ jobs:
       - name: Update Recent Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://odhyp.com/index.xml"
+          feed_list: "https://odhyp.com/rss.xml"
           # Content
           template: "$newline- [$title]($url)"
           # Commit
