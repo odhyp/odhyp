@@ -1,8 +1,8 @@
 📑 **Latest posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Garden #3 - Charts](https://odhyp.com/writings/digital-garden-3-charts/)
-- [Digital Garden #2 - Navigation](https://odhyp.com/writings/digital-garden-2-navigation/)
+- [Digital Garden #3 - Visualizing Data with Charts](https://odhyp.com/writings/digital-garden-3-charts/)
+- [Digital Garden #2 - Exploring Navigation](https://odhyp.com/writings/digital-garden-2-navigation/)
 - [Upgrading Your Hugo Site to Tailwind CSS v4](https://odhyp.com/writings/upgrading-your-hugo-site-to-tailwindcss-v4/)
 - [Digital Garden #1 - Migrating to Astro](https://odhyp.com/writings/digital-garden-1-migrating-to-astro/)<!-- BLOG-POST-LIST:END -->
 
