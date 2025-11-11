@@ -37,7 +37,7 @@ TypeScript   12 mins         >------------------------   02.23 %
 [![Comments][comments-shield]][comments-url]
 
 <!-- LINKS & IMAGES -->
-[website-url]: https://odhyp.com/writings
+[website-url]: https://odhyp.com
 [view-shield]: https://komarev.com/ghpvc/?username=odhyp&color=00bba7&style=for-the-badge&abbreviated=true
 [stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=00bba7
 [comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=00bba7
