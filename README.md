@@ -1,8 +1,8 @@
 📑 **Latest posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating to Astro](https://odhyp.com/writings/migrating-to-astro/)
-- [Upgrading a Hugo Site to Tailwind CSS v4](https://odhyp.com/writings/upgrading-a-hugo-site-to-tailwindcss-v4/)<!-- BLOG-POST-LIST:END -->
+- [Migrating to Astro](https://odhyp.com/migrating-to-astro/)
+- [Upgrading a Hugo Site to Tailwind CSS v4](https://odhyp.com/upgrading-a-hugo-site-to-tailwindcss-v4/)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
