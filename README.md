@@ -1,3 +1,7 @@
+![Home](home.jpg)
+
+<br>
+
 📑 **Latest posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
