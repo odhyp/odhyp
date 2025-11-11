@@ -1,5 +1,7 @@
 ![Home](home.jpg)
 
+> Peace in motion.
+
 <br>
 
 📑 **Latest posts on [odhyp.com][website-url]**
