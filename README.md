@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 4 hrs 39 mins
+Total Time: 2 hrs 58 mins
 
-Python     2 hrs 13 mins   >>>>>>>>>>>>-------------   46.20 %
-MDX        1 hr 22 mins    >>>>>>>------------------   28.68 %
-Astro      41 mins         >>>>---------------------   14.34 %
-Markdown   18 mins         >>-----------------------   06.33 %
-Other      9 mins          >------------------------   03.19 %
+Python       2 hrs 24 mins   >>>>>>>>>>>>>>>>>>>>-----   81.43 %
+Astro        23 mins         >>>----------------------   13.28 %
+Markdown     7 mins          >------------------------   04.08 %
+Git Config   0 secs          -------------------------   00.45 %
+Git          0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
