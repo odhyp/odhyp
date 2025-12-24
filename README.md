@@ -1,9 +1,3 @@
-![Home](home.jpg)
-
-> Peace in motion.
-
-<br>
-
 📑 **Latest posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
@@ -16,8 +10,6 @@
 📊 **GitHub stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=odhyp&show_icons=true&theme=github_dark&hide_title=true&border_color=151B23) &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=odhyp&layout=compact&theme=github_dark&hide=html&border_color=151B23)
-
-<br>
 
 📆 **This week in code**
 
@@ -45,7 +37,7 @@ Python       3 mins          -------------------------   00.95 %
 
 <!-- LINKS & IMAGES -->
 [website-url]: https://odhyp.com
-[view-shield]: https://komarev.com/ghpvc/?username=odhyp&color=00bba7&style=for-the-badge&abbreviated=true
-[stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=00bba7
-[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=00bba7
+[view-shield]: https://komarev.com/ghpvc/?username=odhyp&style=for-the-badge&abbreviated=true
+[stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars
+[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments
 [comments-url]: https://github.com/odhyp/odhyp/discussions
