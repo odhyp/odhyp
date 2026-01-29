@@ -1,9 +1,9 @@
 📑 **Latest posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Open External Links in New Tabs in Astro](https://odhyp.com/astro-opening-external-links/)
-- [Migrating to Astro](https://odhyp.com/migrating-to-astro/)
-- [Upgrading a Hugo Site to Tailwind CSS v4](https://odhyp.com/upgrading-a-hugo-site-to-tailwindcss-v4/)<!-- BLOG-POST-LIST:END -->
+- [Automatically Open External Links in New Tabs in Astro](https://odhyp.com/writings/astro-opening-external-links/)
+- [Migrating to Astro](https://odhyp.com/writings/migrating-to-astro/)
+- [Upgrading a Hugo Site to Tailwind CSS v4](https://odhyp.com/writings/upgrading-a-hugo-site-to-tailwindcss-v4/)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
