@@ -3,6 +3,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Automatically Open External Links in New Tabs in Astro](https://odhyp.com/writings/astro-opening-external-links/)
 - [Migrating to Astro](https://odhyp.com/writings/migrating-to-astro/)
+- [Goodbye pip, Hello uv](https://odhyp.com/writings/goodbye-pip-hello-uv/)
 - [Upgrading a Hugo Site to Tailwind CSS v4](https://odhyp.com/writings/upgrading-a-hugo-site-to-tailwindcss-v4/)<!-- BLOG-POST-LIST:END -->
 
 <br>
