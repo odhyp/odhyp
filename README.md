@@ -18,12 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 17 mins
+Total Time: 0 secs
 
-MDX          13 mins               >>>>>>>>>>>>>>>>>>>>-----   78.20 %
-Astro        3 mins                >>>>---------------------   17.95 %
-JavaScript   0 secs                >------------------------   03.52 %
-Other        0 secs                -------------------------   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
