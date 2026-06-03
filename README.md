@@ -9,6 +9,11 @@
 
 <br>
 
+<details>
+  <summary>more...</summary>
+
+<br>
+
 📊 **GitHub stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=odhyp&show_icons=true&theme=github_dark&hide_title=true&border_color=151B23) &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=odhyp&layout=compact&theme=github_dark&hide=html&border_color=151B23)
@@ -39,3 +44,5 @@ No activity tracked
 [stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars
 [comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments
 [comments-url]: https://github.com/odhyp/odhyp/discussions
+
+</details>
