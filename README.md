@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 22 hrs 7 mins
+Total Time: 24 hrs 15 mins
 
-Astro        16 hrs 50 mins        >>>>>>>>>>>>>>>>>>>------   76.15 %
-TypeScript   2 hrs 5 mins          >>-----------------------   09.46 %
-Markdown     1 hr 12 mins          >------------------------   05.46 %
-JavaScript   53 mins               >------------------------   04.01 %
-CSS          46 mins               >------------------------   03.53 %
+Astro        19 hrs 9 mins         >>>>>>>>>>>>>>>>>>>>-----   78.98 %
+TypeScript   2 hrs 12 mins         >>-----------------------   09.11 %
+Markdown     54 mins               >------------------------   03.73 %
+CSS          53 mins               >------------------------   03.70 %
+JavaScript   39 mins               >------------------------   02.69 %
 ```
 
 <!--END_SECTION:waka-->
