@@ -3,7 +3,7 @@ name: Update WakaTime Stats
 on:
   workflow_dispatch: # Allow manual trigger
   schedule:
-    - cron: "0 0 * * *" # Runs at 7:00 AM WIB daily
+    - cron: "0 0 * * 1" # Runs every Mon at 00:00
 
 jobs:
   update-waka-time:

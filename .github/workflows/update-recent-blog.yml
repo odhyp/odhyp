@@ -3,7 +3,7 @@ name: Update Recent Blog Posts
 on:
   workflow_dispatch: # Allow manual trigger
   schedule:
-    - cron: "0 1 * * 1,4" # Runs every Mon and Thu at 7:00 AM WIB
+    - cron: "0 0 * * 1" # Runs every Mon at 00:00
 
 jobs:
   update-recent-blog:
