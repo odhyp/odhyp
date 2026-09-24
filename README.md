@@ -1,4 +1,8 @@
-📑 **Latest posts on [odhyp.com][website-url]**
+![Home](/home.jpg)
+
+<br>
+
+**Latest posts on [odhyp.com][website-url]**
 
 <!-- BLOG-POST-LIST:START -->
 - [Automatically Open External Links in New Tabs in Astro](https://odhyp.com/writings/astro-opening-external-links/)
@@ -9,16 +13,11 @@
 
 <br>
 
-<details>
-  <summary>more...</summary>
+**GitHub stats**
 
-<br>
+![](https://github-stats-extended.vercel.app/api?username=odhyp&show_icons=true&theme=github_dark&hide_title=true&border_color=151B23) &nbsp; ![](https://github-stats-extended.vercel.app/api/top-langs/?username=odhyp&layout=compact&theme=github_dark&hide=html&border_color=151B23)
 
-📊 **GitHub stats**
-
-![](https://github-readme-stats.vercel.app/api?username=odhyp&show_icons=true&theme=github_dark&hide_title=true&border_color=151B23) &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=odhyp&layout=compact&theme=github_dark&hide=html&border_color=151B23)
-
-📆 **This week in code**
+**This week in code**
 
 <!--START_SECTION:waka-->
 
@@ -34,7 +33,7 @@ Astro          17 mins               -------------------------   01.60 %
 
 <br>
 
-⚙️ **Other stats**
+**Other stats**
 
 ![Profile Views][view-shield]
 ![Total Stars][stars-shield]
@@ -42,9 +41,7 @@ Astro          17 mins               -------------------------   01.60 %
 
 <!-- LINKS & IMAGES -->
 [website-url]: https://odhyp.com
-[view-shield]: https://komarev.com/ghpvc/?username=odhyp&style=for-the-badge&abbreviated=true
-[stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars
-[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments
+[view-shield]: https://komarev.com/ghpvc/?username=odhyp&style=for-the-badge&abbreviated=true&color=red
+[stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=red
+[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=red
 [comments-url]: https://github.com/odhyp/odhyp/discussions
-
-</details>
