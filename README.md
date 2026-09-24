@@ -41,7 +41,7 @@ Astro          17 mins               -------------------------   01.60 %
 
 <!-- LINKS & IMAGES -->
 [website-url]: https://odhyp.com
-[view-shield]: https://komarev.com/ghpvc/?username=odhyp&style=for-the-badge&abbreviated=true&color=red
-[stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=red
-[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=red
+[view-shield]: https://komarev.com/ghpvc/?username=odhyp&style=for-the-badge&abbreviated=true&color=yellow
+[stars-shield]: https://img.shields.io/github/stars/odhyp?style=for-the-badge&label=total%20stars&color=yellow
+[comments-shield]: https://img.shields.io/github/discussions/odhyp/odhyp?style=for-the-badge&label=comments&color=yellow
 [comments-url]: https://github.com/odhyp/odhyp/discussions
