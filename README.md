@@ -15,7 +15,7 @@
 
 **GitHub stats**
 
-![](https://github-stats-extended.vercel.app/api?username=odhyp&show_icons=true&theme=github_dark&hide_title=true&border_color=151B23) &nbsp; ![](https://github-stats-extended.vercel.app/api/top-langs/?username=odhyp&layout=compact&theme=github_dark&hide=html&border_color=151B23)
+![](https://github-stats-extended.vercel.app/api?username=odhyp&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark&hide_title=true&border_color=151B23) &nbsp; ![](https://github-stats-extended.vercel.app/api/top-langs/?username=odhyp&layout=compact&theme=github_dark&hide=html&border_color=151B23)
 
 **This week in code**
 
